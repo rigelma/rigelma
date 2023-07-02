@@ -1,3 +1,6 @@
+[![Rigel Ma's GitHub stats](https://github-readme-stats.vercel.app/api?username=rigelma)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # Introduction
 
 👦 Hi, I'm Rigel Ma, a college student. Welcome to my repository!! 

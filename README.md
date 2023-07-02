@@ -1,4 +1,4 @@
-[![Rigel Ma's GitHub stats](https://github-readme-stats.vercel.app/api?username=rigelma)](https://github.com/anuraghazra/github-readme-stats)
+[![Rigel Ma's GitHub stats](https://github-readme-stats.vercel.app/api?username=rigelma&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # Introduction
